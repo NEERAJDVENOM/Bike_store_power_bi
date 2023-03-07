@@ -1,0 +1,31 @@
+# Bike_store_Data_analysis
+
+# Data_details
+	 
+	Data available in Mysql "Bike_store" database 
+	INSIDE COMPANY SCHEMA, there is 2 databases
+
+	1. production
+		production schema contains 4 tables.
+			a. brands
+			b. categories
+			c. products
+			d. stocks
+
+	2. sales
+		sales schema contains 5 tables.
+			a. customer
+			b. order_items
+			c. orders
+			d. staffs
+			e. stores
+
+
+# Step 1. 	Using SQL query, extract all relevant data from databases required for our analysis and according to company target requirements.
+# step 2. 	Exporting data to excel files by connecting it through SQL database for auto-updation.
+# step 3.   check data redundancy.
+# step 4.   Data analysis in excel.
+	
+
+		
+	
